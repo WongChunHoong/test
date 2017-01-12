@@ -19,3 +19,16 @@ Example of full binary dataset (1000-out2.csv):
 In binary form, the 
 
 
+
+
+Where choices were made describe your reasoning behind the choices?
+
+Before the actual data mining process begin, all the empty spaces that is found within the sparse form of the dataset is replaced with null value which is not available. Besides that, all the item number that is found within each record is then replaced with the item name so that the rules generated are easier to describe and understand.
+
+Transaction CSV is not used. 
+We have agreed that we can't obtain any association rules related to our problem with quantity and cost.
+We're mainly looking at what the customer will buy or the combinations of purchases; not the price. 
+Another reason would be Customers' data like wages or savings was not provided.
+
+Our final data consists of only strings, therefore we will be using "transaction" (basket). 
+No discretization nor quantization was needed for our final data set.
