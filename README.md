@@ -28,3 +28,9 @@ Before the actual data mining process begin, all the empty spaces that is found 
 
 There was one of the dataset which the source website provided that contains the information of quantity of the product that customer purchased. That information was not used in the data mining process due to the reason that we are not interested in the quantity of the item they bought and it is not needed to found out the combination of product that customer will buy in. 
 
+###3. Parameter Settings
+
+* **Algorithm used**
+
+Apriori alogrithm for association mining is used to find out the relationship and the distinct combination of product that the customer bought during their visit to the bakery store. Furthermore, the confidence and support 
+
