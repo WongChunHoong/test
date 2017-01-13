@@ -33,4 +33,3 @@ There was one of the dataset which the source website provided that contains the
 * **Algorithm used**
 
 Apriori alogrithm for association mining is used to find out the relationship and the distinct combination of product that the customer bought during their visit to the bakery store. Furthermore, the confidence and support are set to 0.005 and 0.8.
-
